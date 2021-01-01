@@ -44,3 +44,14 @@ body {
   transform: rotate(90deg);
   transition: all 0.05s;
 }
+
+.min-hand {
+  border: 2px solid red;
+}
+.hour-hand {
+  border: 2px solid rgb(51, 146, 224);
+}
+
+.second-hand {
+  border: 1px solid black;
+}
